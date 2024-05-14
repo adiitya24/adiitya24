@@ -8,7 +8,7 @@ I'm a passionate computer science student with a keen interest in solving comple
 
 ## What I'm Working On
 
-- 🔭 Currently, I'm working on sharpening my problem-solving skills by regularly practicing on LeetCode : https://leetcode.com/u/adiiitya24
+- 🔭 Currently, I'm working on sharpening my problem-solving skills by regularly practicing on [LeetCode](https://leetcode.com/u/adiiitya24/)
 - 💼 I'm open to internship opportunities to gain practical experience and contribute to real-world projects.
 
 ## My Interests
