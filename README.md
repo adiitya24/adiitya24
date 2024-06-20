@@ -16,7 +16,6 @@ I'm a passionate computer science student with a keen interest in solving comple
 - 💻 Software Development
 - 🧠 Algorithms and Data Structures
 - 🌐 Web Development
-- 📱 Mobile App Development
 - 🤖 Artificial Intelligence and Machine Learning
 
 ## Get in Touch
