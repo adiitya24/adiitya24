@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii2202&label=Profile%20views&color=0e75b6&style=flat" alt="adiitya24" /> </p>
 <p align="center">
    &nbsp;&nbsp; 
-    <a href="https://www.linkedin.com/in/aditya-choudhary-91719322a/ target="_blank">
+    <a href="https://www.linkedin.com/in/aditya-choudhary-91719322a/" target="_blank">
         <img alt="Aditya | LinkedIn" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin" />
     </a>&nbsp;&nbsp; 
     <!-- &nbsp;&nbsp;  -->
-    <a href="mailto:adityachoudhary.ir@gmail.com?subject='Hey there, nice connecting with you'" target="_blank">
+    <a href="mailto:adityachoudhary.ir@gmail.com? subject='Hey there, nice connecting with you'" target="_blank">
         <img alt="Gmail" src="gmail.png" width="40" height="40"/>
     </a>
-    <a href="https://leetcode.com/u/adiiitya24/ target="_blank">
+     <a href="https://leetcode.com/u/adiiitya24/" target="_blank">
         <img alt="LeetCode" src="leetcodelogo.png" width="40" height="40"/>
     </a>
     <a href="https://adityachoudhary-portfolio.netlify.app/" target="_blank">
